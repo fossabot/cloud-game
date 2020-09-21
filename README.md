@@ -2,6 +2,7 @@
 
 [![Build](https://github.com/giongto35/cloud-game/workflows/build/badge.svg)](https://github.com/giongto35/cloud-game/actions?query=workflow:build)
 [![Latest release](https://img.shields.io/github/v/release/giongto35/cloud-game.svg)](https://github.com/giongto35/cloud-game/releases/latest)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsergystepanov%2Fcloud-game.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsergystepanov%2Fcloud-game?ref=badge_shield)
 
 **Open-source Cloud Gaming Service For Retro Games**  
 **Video demo**: https://www.youtube.com/watch?v=GUBrJGAxZZg  
@@ -123,3 +124,7 @@ https://www.linkedin.com/in/huuthanhnguyen/
 Tri Dang Minh  
 https://trich.im
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsergystepanov%2Fcloud-game.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsergystepanov%2Fcloud-game?ref=badge_large)
